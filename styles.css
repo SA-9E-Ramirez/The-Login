@@ -1,0 +1,31 @@
+h1 {
+		text-align: center;
+	}
+
+	h3 {
+		text-align: center;
+	}
+
+	.scammingform {
+		text-align: center;
+		margin: auto;
+		width: 25%;
+		height: 25%;
+		border: 3px solid green;
+  		padding: 10px;
+	}
+
+	.bighard {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 10%;		
+	}
+
+	body{
+		text-align: center;
+	}
+
+	.rick{
+		align-content: center;
+	}
